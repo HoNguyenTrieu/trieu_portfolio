@@ -6,7 +6,7 @@
 
 # File Structure
 
-| -Portfolio/
-|- index.html
-|- README.md
-|- style.css
+|-Portfolio/
+|-index.html
+|-README.md
+|-style.css
